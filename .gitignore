@@ -5,4 +5,7 @@
 .terraform.lock.hcl
 
 # Provider binaries
-**/terraform-provider-*/ 
+**/terraform-provider-*/
+
+terraform/.gitignore
+terraform/README.md 
